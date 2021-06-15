@@ -1,5 +1,6 @@
 # BSA 2020 JS - mini-project Thread
 
+
 ## Описание
 [**Thread**](git@github.com:BinaryStudioAcademy/thread-js.git) - это [SPA](https://medium.com/NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58 "SPA") с готовой архитектурой и структурой, подключенным базовым стеком технологий и стартовым функционалом, предназначенный для самостоятельной практики студентов.
 
